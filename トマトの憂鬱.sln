@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "トマトの憂鬱", "トマトの憂鬱\トマトの憂鬱.vcxproj", "{DD1E846D-9D9F-4941-AF8D-E7747552765C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Debug|x64.ActiveCfg = Debug|x64
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Debug|x64.Build.0 = Debug|x64
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Debug|x86.Build.0 = Debug|Win32
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Release|x64.ActiveCfg = Release|x64
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Release|x64.Build.0 = Release|x64
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Release|x86.ActiveCfg = Release|Win32
+		{DD1E846D-9D9F-4941-AF8D-E7747552765C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECC3F73-2ED5-4989-B7C8-CF87C5D9F552}
+	EndGlobalSection
+EndGlobal
